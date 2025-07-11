@@ -24,7 +24,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=cmoinahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/cmoinahmed/cmoinahmed/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/cmoinahmed/cmoinahmed/output/github-contribution-grid-snake.svg)
 
 ## 🌱 Currently Learning / Interests
 - ☁️ Cloud-Native Development (Azure, Docker, Microservices)
