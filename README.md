@@ -23,5 +23,17 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cmoinahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/cmoinahmed/cmoinahmed/blob/output/github-contribution-grid-snake.svg)
+
+## 🌱 Currently Learning / Interests
+- ☁️ Cloud-Native Development (Azure, Docker, Microservices)
+- 🧩 Scalable System Design & Architecture
+- 🔐 Spring Security, OAuth2, and JWT Best Practices
+- ⚙️ Distributed Systems and Caching with Redis
+
+## 🕒 My Local Time
+![Time](https://github-readme-timezone.vercel.app/api/timezone?location=Asia/Kolkata)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=cmoinahmed&icon=0&color=0)](https://visitcount.itsvg.in)
