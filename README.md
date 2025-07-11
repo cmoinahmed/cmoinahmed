@@ -33,7 +33,7 @@
 - ⚙️ Distributed Systems and Caching with Redis
 
 ## 🕒 My Local Time
-![Time](https://github-readme-timezone.vercel.app/api/timezone?location=Asia/Kolkata)
+![Timezone](https://img.shields.io/badge/Timezone-Asia%2FKolkata-blue?style=flat&logo=clock)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cmoinahmed&icon=0&color=0)](https://visitcount.itsvg.in)
